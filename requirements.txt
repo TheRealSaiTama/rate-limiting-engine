@@ -1,0 +1,6 @@
+flask
+redis
+prometheus_client
+opentelemetry-api
+opentelemetry-sdk
+werkzeug
